@@ -1,7 +1,7 @@
 body{
     background-color: #66bfbf;
     text-align: center;
-    background-image:url(/webdevlopment/Practice/profile-card-component-main/images/bg-pattern-top.svg) , url(/webdevlopment/Practice/profile-card-component-main/images/bg-pattern-bottom.svg);
+    background-image:url(bg-pattern-top.svg) , url(bg-pattern-bottom.svg);
      background-repeat: no-repeat, no-repeat;
      background-position: -75% 190%, 170% -115%;
      font-family: sans-serif;
